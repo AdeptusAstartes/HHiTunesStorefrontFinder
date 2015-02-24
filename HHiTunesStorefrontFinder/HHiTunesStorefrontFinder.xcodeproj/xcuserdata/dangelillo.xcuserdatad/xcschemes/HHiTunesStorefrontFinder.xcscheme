@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F22388921A9C412F00B4E3D9"
-               BuildableName = "HHiTunesStorefront.app"
-               BlueprintName = "HHiTunesStorefront"
-               ReferencedContainer = "container:HHiTunesStorefront.xcodeproj">
+               BlueprintIdentifier = "F2C979F11A9C557D00F9C07E"
+               BuildableName = "HHiTunesStorefrontFinder.app"
+               BlueprintName = "HHiTunesStorefrontFinder"
+               ReferencedContainer = "container:HHiTunesStorefrontFinder.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F22388A71A9C412F00B4E3D9"
-               BuildableName = "HHiTunesStorefrontTests.xctest"
-               BlueprintName = "HHiTunesStorefrontTests"
-               ReferencedContainer = "container:HHiTunesStorefront.xcodeproj">
+               BlueprintIdentifier = "F2C97A061A9C557D00F9C07E"
+               BuildableName = "HHiTunesStorefrontFinderTests.xctest"
+               BlueprintName = "HHiTunesStorefrontFinderTests"
+               ReferencedContainer = "container:HHiTunesStorefrontFinder.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F22388A71A9C412F00B4E3D9"
-               BuildableName = "HHiTunesStorefrontTests.xctest"
-               BlueprintName = "HHiTunesStorefrontTests"
-               ReferencedContainer = "container:HHiTunesStorefront.xcodeproj">
+               BlueprintIdentifier = "F2C97A061A9C557D00F9C07E"
+               BuildableName = "HHiTunesStorefrontFinderTests.xctest"
+               BlueprintName = "HHiTunesStorefrontFinderTests"
+               ReferencedContainer = "container:HHiTunesStorefrontFinder.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F22388921A9C412F00B4E3D9"
-            BuildableName = "HHiTunesStorefront.app"
-            BlueprintName = "HHiTunesStorefront"
-            ReferencedContainer = "container:HHiTunesStorefront.xcodeproj">
+            BlueprintIdentifier = "F2C979F11A9C557D00F9C07E"
+            BuildableName = "HHiTunesStorefrontFinder.app"
+            BlueprintName = "HHiTunesStorefrontFinder"
+            ReferencedContainer = "container:HHiTunesStorefrontFinder.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -76,10 +76,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F22388921A9C412F00B4E3D9"
-            BuildableName = "HHiTunesStorefront.app"
-            BlueprintName = "HHiTunesStorefront"
-            ReferencedContainer = "container:HHiTunesStorefront.xcodeproj">
+            BlueprintIdentifier = "F2C979F11A9C557D00F9C07E"
+            BuildableName = "HHiTunesStorefrontFinder.app"
+            BlueprintName = "HHiTunesStorefrontFinder"
+            ReferencedContainer = "container:HHiTunesStorefrontFinder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,10 +95,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F22388921A9C412F00B4E3D9"
-            BuildableName = "HHiTunesStorefront.app"
-            BlueprintName = "HHiTunesStorefront"
-            ReferencedContainer = "container:HHiTunesStorefront.xcodeproj">
+            BlueprintIdentifier = "F2C979F11A9C557D00F9C07E"
+            BuildableName = "HHiTunesStorefrontFinder.app"
+            BlueprintName = "HHiTunesStorefrontFinder"
+            ReferencedContainer = "container:HHiTunesStorefrontFinder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  HHiTunesStorefront
+//  HHiTunesStorefrontFinder
 //
 //  Created by Donald Angelillo on 2/24/15.
 //  Copyright (c) 2015 Donald Angelillo. All rights reserved.
@@ -16,10 +16,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
-        let storeFront: HHiTunesStorefront = HHiTunesStorefront();
+        
+        let storeFront: HHiTunesStorefrontFinder = HHiTunesStorefrontFinder();
         println("countryName: " + storeFront.countryName!);
         println("countryCode: " + storeFront.countryCode!);
         println("storefrontId: " + storeFront.storefrontId!);
+        
         return true
     }
 

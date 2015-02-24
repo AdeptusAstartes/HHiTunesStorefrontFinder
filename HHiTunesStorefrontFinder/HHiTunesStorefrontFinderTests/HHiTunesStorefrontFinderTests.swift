@@ -1,6 +1,6 @@
 //
-//  HHiTunesStorefrontTests.swift
-//  HHiTunesStorefrontTests
+//  HHiTunesStorefrontFinderTests.swift
+//  HHiTunesStorefrontFinderTests
 //
 //  Created by Donald Angelillo on 2/24/15.
 //  Copyright (c) 2015 Donald Angelillo. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class HHiTunesStorefrontTests: XCTestCase {
+class HHiTunesStorefrontFinderTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

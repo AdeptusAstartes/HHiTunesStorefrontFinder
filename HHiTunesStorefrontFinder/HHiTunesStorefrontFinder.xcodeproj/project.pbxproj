@@ -7,41 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F22388991A9C412F00B4E3D9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22388981A9C412F00B4E3D9 /* AppDelegate.swift */; };
-		F22388AF1A9C412F00B4E3D9 /* HHiTunesStorefrontTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22388AE1A9C412F00B4E3D9 /* HHiTunesStorefrontTests.swift */; };
-		F22388BE1A9C42DC00B4E3D9 /* HHiTunesStorefront.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22388BD1A9C42DC00B4E3D9 /* HHiTunesStorefront.swift */; };
-		F22388BF1A9C42DC00B4E3D9 /* HHiTunesStorefront.swift in Sources */ = {isa = PBXBuildFile; fileRef = F22388BD1A9C42DC00B4E3D9 /* HHiTunesStorefront.swift */; };
+		F2C979F81A9C557D00F9C07E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C979F71A9C557D00F9C07E /* AppDelegate.swift */; };
+		F2C97A0E1A9C557D00F9C07E /* HHiTunesStorefrontFinderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C97A0D1A9C557D00F9C07E /* HHiTunesStorefrontFinderTests.swift */; };
+		F2C97A191A9C55C700F9C07E /* HHiTunesStorefrontFinder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C97A181A9C55C700F9C07E /* HHiTunesStorefrontFinder.swift */; };
+		F2C97A1A1A9C55C700F9C07E /* HHiTunesStorefrontFinder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2C97A181A9C55C700F9C07E /* HHiTunesStorefrontFinder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		F22388A91A9C412F00B4E3D9 /* PBXContainerItemProxy */ = {
+		F2C97A081A9C557D00F9C07E /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = F223888B1A9C412F00B4E3D9 /* Project object */;
+			containerPortal = F2C979EA1A9C557D00F9C07E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F22388921A9C412F00B4E3D9;
-			remoteInfo = HHiTunesStorefront;
+			remoteGlobalIDString = F2C979F11A9C557D00F9C07E;
+			remoteInfo = HHiTunesStorefrontFinder;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F22388931A9C412F00B4E3D9 /* HHiTunesStorefront.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HHiTunesStorefront.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F22388971A9C412F00B4E3D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F22388981A9C412F00B4E3D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F22388A81A9C412F00B4E3D9 /* HHiTunesStorefrontTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HHiTunesStorefrontTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F22388AD1A9C412F00B4E3D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F22388AE1A9C412F00B4E3D9 /* HHiTunesStorefrontTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HHiTunesStorefrontTests.swift; sourceTree = "<group>"; };
-		F22388BD1A9C42DC00B4E3D9 /* HHiTunesStorefront.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HHiTunesStorefront.swift; sourceTree = "<group>"; };
+		F2C979F21A9C557D00F9C07E /* HHiTunesStorefrontFinder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HHiTunesStorefrontFinder.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F2C979F61A9C557D00F9C07E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2C979F71A9C557D00F9C07E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F2C97A071A9C557D00F9C07E /* HHiTunesStorefrontFinderTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HHiTunesStorefrontFinderTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F2C97A0C1A9C557D00F9C07E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F2C97A0D1A9C557D00F9C07E /* HHiTunesStorefrontFinderTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HHiTunesStorefrontFinderTests.swift; sourceTree = "<group>"; };
+		F2C97A181A9C55C700F9C07E /* HHiTunesStorefrontFinder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HHiTunesStorefrontFinder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F22388901A9C412F00B4E3D9 /* Frameworks */ = {
+		F2C979EF1A9C557D00F9C07E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F22388A51A9C412F00B4E3D9 /* Frameworks */ = {
+		F2C97A041A9C557D00F9C07E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -51,124 +51,124 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F223888A1A9C412F00B4E3D9 = {
+		F2C979E91A9C557D00F9C07E = {
 			isa = PBXGroup;
 			children = (
-				F22388951A9C412F00B4E3D9 /* HHiTunesStorefront */,
-				F22388AB1A9C412F00B4E3D9 /* HHiTunesStorefrontTests */,
-				F22388941A9C412F00B4E3D9 /* Products */,
+				F2C979F41A9C557D00F9C07E /* HHiTunesStorefrontFinder */,
+				F2C97A0A1A9C557D00F9C07E /* HHiTunesStorefrontFinderTests */,
+				F2C979F31A9C557D00F9C07E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F22388941A9C412F00B4E3D9 /* Products */ = {
+		F2C979F31A9C557D00F9C07E /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F22388931A9C412F00B4E3D9 /* HHiTunesStorefront.app */,
-				F22388A81A9C412F00B4E3D9 /* HHiTunesStorefrontTests.xctest */,
+				F2C979F21A9C557D00F9C07E /* HHiTunesStorefrontFinder.app */,
+				F2C97A071A9C557D00F9C07E /* HHiTunesStorefrontFinderTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F22388951A9C412F00B4E3D9 /* HHiTunesStorefront */ = {
+		F2C979F41A9C557D00F9C07E /* HHiTunesStorefrontFinder */ = {
 			isa = PBXGroup;
 			children = (
-				F22388B91A9C41D900B4E3D9 /* HHiTunesStorefront */,
-				F22388981A9C412F00B4E3D9 /* AppDelegate.swift */,
-				F22388961A9C412F00B4E3D9 /* Supporting Files */,
+				F2C97A171A9C55C700F9C07E /* HHiTunesStorefrontFinder */,
+				F2C979F71A9C557D00F9C07E /* AppDelegate.swift */,
+				F2C979F51A9C557D00F9C07E /* Supporting Files */,
 			);
-			path = HHiTunesStorefront;
+			path = HHiTunesStorefrontFinder;
 			sourceTree = "<group>";
 		};
-		F22388961A9C412F00B4E3D9 /* Supporting Files */ = {
+		F2C979F51A9C557D00F9C07E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				F22388971A9C412F00B4E3D9 /* Info.plist */,
+				F2C979F61A9C557D00F9C07E /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		F22388AB1A9C412F00B4E3D9 /* HHiTunesStorefrontTests */ = {
+		F2C97A0A1A9C557D00F9C07E /* HHiTunesStorefrontFinderTests */ = {
 			isa = PBXGroup;
 			children = (
-				F22388AE1A9C412F00B4E3D9 /* HHiTunesStorefrontTests.swift */,
-				F22388AC1A9C412F00B4E3D9 /* Supporting Files */,
+				F2C97A0D1A9C557D00F9C07E /* HHiTunesStorefrontFinderTests.swift */,
+				F2C97A0B1A9C557D00F9C07E /* Supporting Files */,
 			);
-			path = HHiTunesStorefrontTests;
+			path = HHiTunesStorefrontFinderTests;
 			sourceTree = "<group>";
 		};
-		F22388AC1A9C412F00B4E3D9 /* Supporting Files */ = {
+		F2C97A0B1A9C557D00F9C07E /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				F22388AD1A9C412F00B4E3D9 /* Info.plist */,
+				F2C97A0C1A9C557D00F9C07E /* Info.plist */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		F22388B91A9C41D900B4E3D9 /* HHiTunesStorefront */ = {
+		F2C97A171A9C55C700F9C07E /* HHiTunesStorefrontFinder */ = {
 			isa = PBXGroup;
 			children = (
-				F22388BD1A9C42DC00B4E3D9 /* HHiTunesStorefront.swift */,
+				F2C97A181A9C55C700F9C07E /* HHiTunesStorefrontFinder.swift */,
 			);
-			path = HHiTunesStorefront;
+			path = HHiTunesStorefrontFinder;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F22388921A9C412F00B4E3D9 /* HHiTunesStorefront */ = {
+		F2C979F11A9C557D00F9C07E /* HHiTunesStorefrontFinder */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F22388B21A9C412F00B4E3D9 /* Build configuration list for PBXNativeTarget "HHiTunesStorefront" */;
+			buildConfigurationList = F2C97A111A9C557D00F9C07E /* Build configuration list for PBXNativeTarget "HHiTunesStorefrontFinder" */;
 			buildPhases = (
-				F223888F1A9C412F00B4E3D9 /* Sources */,
-				F22388901A9C412F00B4E3D9 /* Frameworks */,
-				F22388911A9C412F00B4E3D9 /* Resources */,
+				F2C979EE1A9C557D00F9C07E /* Sources */,
+				F2C979EF1A9C557D00F9C07E /* Frameworks */,
+				F2C979F01A9C557D00F9C07E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = HHiTunesStorefront;
-			productName = HHiTunesStorefront;
-			productReference = F22388931A9C412F00B4E3D9 /* HHiTunesStorefront.app */;
+			name = HHiTunesStorefrontFinder;
+			productName = HHiTunesStorefrontFinder;
+			productReference = F2C979F21A9C557D00F9C07E /* HHiTunesStorefrontFinder.app */;
 			productType = "com.apple.product-type.application";
 		};
-		F22388A71A9C412F00B4E3D9 /* HHiTunesStorefrontTests */ = {
+		F2C97A061A9C557D00F9C07E /* HHiTunesStorefrontFinderTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F22388B51A9C412F00B4E3D9 /* Build configuration list for PBXNativeTarget "HHiTunesStorefrontTests" */;
+			buildConfigurationList = F2C97A141A9C557D00F9C07E /* Build configuration list for PBXNativeTarget "HHiTunesStorefrontFinderTests" */;
 			buildPhases = (
-				F22388A41A9C412F00B4E3D9 /* Sources */,
-				F22388A51A9C412F00B4E3D9 /* Frameworks */,
-				F22388A61A9C412F00B4E3D9 /* Resources */,
+				F2C97A031A9C557D00F9C07E /* Sources */,
+				F2C97A041A9C557D00F9C07E /* Frameworks */,
+				F2C97A051A9C557D00F9C07E /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F22388AA1A9C412F00B4E3D9 /* PBXTargetDependency */,
+				F2C97A091A9C557D00F9C07E /* PBXTargetDependency */,
 			);
-			name = HHiTunesStorefrontTests;
-			productName = HHiTunesStorefrontTests;
-			productReference = F22388A81A9C412F00B4E3D9 /* HHiTunesStorefrontTests.xctest */;
+			name = HHiTunesStorefrontFinderTests;
+			productName = HHiTunesStorefrontFinderTests;
+			productReference = F2C97A071A9C557D00F9C07E /* HHiTunesStorefrontFinderTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F223888B1A9C412F00B4E3D9 /* Project object */ = {
+		F2C979EA1A9C557D00F9C07E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = "Donald Angelillo";
 				TargetAttributes = {
-					F22388921A9C412F00B4E3D9 = {
+					F2C979F11A9C557D00F9C07E = {
 						CreatedOnToolsVersion = 6.2;
 					};
-					F22388A71A9C412F00B4E3D9 = {
+					F2C97A061A9C557D00F9C07E = {
 						CreatedOnToolsVersion = 6.2;
-						TestTargetID = F22388921A9C412F00B4E3D9;
+						TestTargetID = F2C979F11A9C557D00F9C07E;
 					};
 				};
 			};
-			buildConfigurationList = F223888E1A9C412F00B4E3D9 /* Build configuration list for PBXProject "HHiTunesStorefront" */;
+			buildConfigurationList = F2C979ED1A9C557D00F9C07E /* Build configuration list for PBXProject "HHiTunesStorefrontFinder" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -176,26 +176,26 @@
 				en,
 				Base,
 			);
-			mainGroup = F223888A1A9C412F00B4E3D9;
-			productRefGroup = F22388941A9C412F00B4E3D9 /* Products */;
+			mainGroup = F2C979E91A9C557D00F9C07E;
+			productRefGroup = F2C979F31A9C557D00F9C07E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F22388921A9C412F00B4E3D9 /* HHiTunesStorefront */,
-				F22388A71A9C412F00B4E3D9 /* HHiTunesStorefrontTests */,
+				F2C979F11A9C557D00F9C07E /* HHiTunesStorefrontFinder */,
+				F2C97A061A9C557D00F9C07E /* HHiTunesStorefrontFinderTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F22388911A9C412F00B4E3D9 /* Resources */ = {
+		F2C979F01A9C557D00F9C07E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F22388A61A9C412F00B4E3D9 /* Resources */ = {
+		F2C97A051A9C557D00F9C07E /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -205,36 +205,36 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F223888F1A9C412F00B4E3D9 /* Sources */ = {
+		F2C979EE1A9C557D00F9C07E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F22388991A9C412F00B4E3D9 /* AppDelegate.swift in Sources */,
-				F22388BE1A9C42DC00B4E3D9 /* HHiTunesStorefront.swift in Sources */,
+				F2C979F81A9C557D00F9C07E /* AppDelegate.swift in Sources */,
+				F2C97A191A9C55C700F9C07E /* HHiTunesStorefrontFinder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F22388A41A9C412F00B4E3D9 /* Sources */ = {
+		F2C97A031A9C557D00F9C07E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F22388AF1A9C412F00B4E3D9 /* HHiTunesStorefrontTests.swift in Sources */,
-				F22388BF1A9C42DC00B4E3D9 /* HHiTunesStorefront.swift in Sources */,
+				F2C97A0E1A9C557D00F9C07E /* HHiTunesStorefrontFinderTests.swift in Sources */,
+				F2C97A1A1A9C55C700F9C07E /* HHiTunesStorefrontFinder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		F22388AA1A9C412F00B4E3D9 /* PBXTargetDependency */ = {
+		F2C97A091A9C557D00F9C07E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F22388921A9C412F00B4E3D9 /* HHiTunesStorefront */;
-			targetProxy = F22388A91A9C412F00B4E3D9 /* PBXContainerItemProxy */;
+			target = F2C979F11A9C557D00F9C07E /* HHiTunesStorefrontFinder */;
+			targetProxy = F2C97A081A9C557D00F9C07E /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		F22388B01A9C412F00B4E3D9 /* Debug */ = {
+		F2C97A0F1A9C557D00F9C07E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -268,7 +268,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -277,7 +277,7 @@
 			};
 			name = Debug;
 		};
-		F22388B11A9C412F00B4E3D9 /* Release */ = {
+		F2C97A101A9C557D00F9C07E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -305,7 +305,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -313,27 +313,27 @@
 			};
 			name = Release;
 		};
-		F22388B31A9C412F00B4E3D9 /* Debug */ = {
+		F2C97A121A9C557D00F9C07E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = HHiTunesStorefront/Info.plist;
+				INFOPLIST_FILE = HHiTunesStorefrontFinder/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		F22388B41A9C412F00B4E3D9 /* Release */ = {
+		F2C97A131A9C557D00F9C07E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = HHiTunesStorefront/Info.plist;
+				INFOPLIST_FILE = HHiTunesStorefrontFinder/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
 		};
-		F22388B61A9C412F00B4E3D9 /* Debug */ = {
+		F2C97A151A9C557D00F9C07E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -345,14 +345,14 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = HHiTunesStorefrontTests/Info.plist;
+				INFOPLIST_FILE = HHiTunesStorefrontFinderTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HHiTunesStorefront.app/HHiTunesStorefront";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HHiTunesStorefrontFinder.app/HHiTunesStorefrontFinder";
 			};
 			name = Debug;
 		};
-		F22388B71A9C412F00B4E3D9 /* Release */ = {
+		F2C97A161A9C557D00F9C07E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -360,42 +360,42 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = HHiTunesStorefrontTests/Info.plist;
+				INFOPLIST_FILE = HHiTunesStorefrontFinderTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HHiTunesStorefront.app/HHiTunesStorefront";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HHiTunesStorefrontFinder.app/HHiTunesStorefrontFinder";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F223888E1A9C412F00B4E3D9 /* Build configuration list for PBXProject "HHiTunesStorefront" */ = {
+		F2C979ED1A9C557D00F9C07E /* Build configuration list for PBXProject "HHiTunesStorefrontFinder" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F22388B01A9C412F00B4E3D9 /* Debug */,
-				F22388B11A9C412F00B4E3D9 /* Release */,
+				F2C97A0F1A9C557D00F9C07E /* Debug */,
+				F2C97A101A9C557D00F9C07E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F22388B21A9C412F00B4E3D9 /* Build configuration list for PBXNativeTarget "HHiTunesStorefront" */ = {
+		F2C97A111A9C557D00F9C07E /* Build configuration list for PBXNativeTarget "HHiTunesStorefrontFinder" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F22388B31A9C412F00B4E3D9 /* Debug */,
-				F22388B41A9C412F00B4E3D9 /* Release */,
+				F2C97A121A9C557D00F9C07E /* Debug */,
+				F2C97A131A9C557D00F9C07E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		F22388B51A9C412F00B4E3D9 /* Build configuration list for PBXNativeTarget "HHiTunesStorefrontTests" */ = {
+		F2C97A141A9C557D00F9C07E /* Build configuration list for PBXNativeTarget "HHiTunesStorefrontFinderTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F22388B61A9C412F00B4E3D9 /* Debug */,
-				F22388B71A9C412F00B4E3D9 /* Release */,
+				F2C97A151A9C557D00F9C07E /* Debug */,
+				F2C97A161A9C557D00F9C07E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F223888B1A9C412F00B4E3D9 /* Project object */;
+	rootObject = F2C979EA1A9C557D00F9C07E /* Project object */;
 }

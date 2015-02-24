@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>HHiTunesStorefront.xcscheme</key>
+		<key>HHiTunesStorefrontFinder.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>F22388921A9C412F00B4E3D9</key>
+		<key>F2C979F11A9C557D00F9C07E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>F22388A71A9C412F00B4E3D9</key>
+		<key>F2C97A061A9C557D00F9C07E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
