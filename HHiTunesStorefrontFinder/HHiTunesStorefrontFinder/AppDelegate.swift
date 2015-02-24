@@ -18,8 +18,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         println("storefrontId: " + HHiTunesStorefrontFinder.storefrontId()!);
-        println("storefrontId: " + HHiTunesStorefrontFinder.storefrontId(NSLocale.currentLocale())!);
-        println("storefrontId: " + HHiTunesStorefrontFinder.storefrontId("US")!);
+        println("storefrontId: " + HHiTunesStorefrontFinder.storefrontIdWithLocale(NSLocale.currentLocale())!);
+        println("storefrontId: " + HHiTunesStorefrontFinder.storefrontIdWithCountryCode("US")!);
         
         return true
     }
