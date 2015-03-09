@@ -179,4 +179,25 @@ public class HHiTunesStorefrontFinder: NSObject {
         let storefrontId: NSString = filteredCountry["storefrontId"] as NSString;
         return storefrontId;
     }
+    
+    public class func countryCode() -> NSString? {
+        let localeToUse: NSLocale = NSLocale.currentLocale();
+        return HHiTunesStorefrontFinder.countryCodeWithLocale(localeToUse);
+    }
+    
+    public class func countryCodeWithLocale(locale: NSLocale) -> NSString? {
+        let localeToUse: NSLocale = locale;
+        let countryCode: NSString = localeToUse.objectForKey(NSLocaleCountryCode) as NSString;
+        
+        let filteredCountry: NSDictionary = HHiTunesStorefrontFinder.countryData.filter { (country: NSDictionary) in
+            if (country["countryCode"] as? NSString == countryCode) {
+                return true;
+            }
+            
+            return false;
+            }.first!;
+        
+        let storefrontId: NSString = filteredCountry["countryCode"] as NSString;
+        return storefrontId.lowercaseString;
+    }
 }
