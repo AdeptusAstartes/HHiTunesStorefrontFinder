@@ -4,7 +4,7 @@ Want to send your users to the right iTunes Storefront (like for iTunes RSS Feed
 
 # Requirements
 
-This is written in Swift 1.1 so XCode 6.1 or greater is required to use it.  If you want to use it from an Objective-C class head over to [Apple's docs] (https://developer.apple.com/library/ios/documentation/Swift/Conceptual/BuildingCocoaApps/MixandMatch.html) to learn how to do that.
+This is written in Swift 2.1 so XCode 7.2 or greater is required to use it.  If you want to use it from an Objective-C class head over to [Apple's docs] (https://developer.apple.com/library/ios/documentation/Swift/Conceptual/BuildingCocoaApps/MixandMatch.html) to learn how to do that.
 
 # Usage
 
@@ -29,3 +29,4 @@ let storefrontId: NSString = HHiTunesStorefrontFinder.storefrontId("US"))!;
 
 That's it!
 
+_Technical Note_:  If you're wondering why I'm returning these values as `NSString` objects instead of native Swift `String` objects it's because this is currently being used by me in a project that is largely still Objective C.
