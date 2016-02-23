@@ -17,9 +17,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         // Override point for customization after application launch.
         
-        println("storefrontId: " + HHiTunesStorefrontFinder.storefrontId()!);
-        println("storefrontId: " + HHiTunesStorefrontFinder.storefrontIdWithLocale(NSLocale.currentLocale())!);
-        println("storefrontId: " + HHiTunesStorefrontFinder.storefrontIdWithCountryCode("US")!);
+        print("storefrontId: \(HHiTunesStorefrontFinder.storefrontId())");
+        print("storefrontId: \(HHiTunesStorefrontFinder.storefrontIdWithLocale(NSLocale.currentLocale()))");
+        print("storefrontId: \(HHiTunesStorefrontFinder.storefrontIdWithCountryCode("US"))");
         
         return true
     }
